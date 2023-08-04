@@ -25,9 +25,11 @@ I'm always eager to connect with fellow developers, learners, or anyone who shar
 I'm open to collaborations, discussions, or just a friendly chat, so don't hesitate to drop me a line.
 
 **Projects**
+
 As I continue to learn and grow, I'll be adding more projects to my GitHub repositories. Stay tuned for exciting web development projects showcasing my journey and skills!
 
 **Let's Connect**
+
 Let's embark on this coding adventure together! Feel free to reach out if you're passionate about web development, cars or want to connect. I am looking forward to exchanging ideas and learning from each other.
 
 Happy coding! 🚀
