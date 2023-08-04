@@ -2,9 +2,13 @@ Welcome to My GitHub Profile!
 Hey there! 👋 I'm Abdulsamet, a passionate undergraduate student currently diving into the world of Website Development. I'm a senior student who's enthusiastic about crafting captivating online experiences through code. If you share the same passion or if you're just curious about my journey, you've come to the right place!
 
 About Me
+
 🎓 Senior Student pursuing my undergraduate degree in Computer Science at North American University.
+
 🌱 Currently focusing on learning HTML, CSS, JavaScript, and React to create amazing websites.
+
 🏎️ Fun Fact: I'm not just about coding but also a car enthusiast who loves everything about automobiles!
+
 What I'm Up To
 Currently, my main focus is honing my skills in front-end web development. I'm delving deep into the world of HTML, CSS, and JavaScript, and I'm super excited to be getting my hands dirty with React to build interactive and dynamic user interfaces. You'll find my projects and repositories reflect my journey as I progress and improve my skills.
 
