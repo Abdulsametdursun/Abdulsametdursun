@@ -1,6 +1,9 @@
 **Welcome to My GitHub Profile!**
 
-Hey there! 👋 I'm Abdulsamet; I worked for Bordo Bilişim Ticaret Ltd. Şti. for over three years as a committed and passionate computer programmer, a passionate undergraduate student currently diving into the world of Website Development. If you share the same passion or if you're just curious about my journey, you've come to the right place!
+I graduated from North American University with a bachelor's degree in computer science in May 2024. I interned at Bordo Bilişim Ticaret Ltd. Şti for over five months, specializing in front-end and test case development. 
+At Udemy, I initially focused on front-end development, crafting user interfaces with React, HTML, and CSS while ensuring mobile responsiveness. I expanded my role to include back-end tasks, similar to my current work at Mimcode, involving React optimization, RESTful API development with Node.js and Express, and database management with SQL and MongoDB.
+I am proficient in React, NodeJS, JavaScript, CSS, HTML, Python, and Microsoft SQL Server, with additional skills in Photoshop and AutoCAD. A proactive learner and team player, I am always ready to take on new challenges and have a strong passion for cars.
+
 
 **About Me**
 
