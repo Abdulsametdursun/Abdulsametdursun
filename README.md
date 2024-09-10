@@ -1,14 +1,14 @@
 **Welcome to My GitHub Profile!**
 
-Hello! I am Abdulsamet Dursun, a Full-Stack Developer currently working as a NodeJS Backend Developer at Mimcode. I build robust and scalable backend services using Node.js and Express in this role. My responsibilities include developing RESTful APIs, managing databases with SQL and MongoDB, and contributing to large-scale e-commerce projects. I am passionate about writing clean, maintainable code and ensuring that the backend systems I develop are efficient and reliable.
+Hello! I am Abdulsamet Dursun, a Full-Stack Developer currently working as a NodeJS Backend Developer at Mimcode. In this role, I build robust and scalable backend services using Node.js and Express. My responsibilities include developing RESTful APIs, managing databases with SQL and MongoDB, and contributing to large-scale e-commerce projects. I am passionate about writing clean, maintainable code and ensuring that the backend systems I develop are efficient and reliable.
 
 About Me
+
+💻 Currently, I am a Full-Stack Developer at Mimcode, focusing on backend development with Node.js and Express. My work involves building scalable and efficient backend services, developing RESTful APIs, and managing databases for large-scale projects.
 
 🎓 I hold a Bachelor of Science in Computer Science from North American University, where I built a strong foundation in software development.
 
 🌱 I have extensive experience with programming languages and frameworks, including JavaScript, Node.js, Python, CSS, HTML, React.js, Express, SQL, and MongoDB.
-
-💻 Currently, I am a Full-Stack Developer at Mimcode, focusing on backend development with Node.js and Express. My work involves building scalable and efficient backend services, developing RESTful APIs, and managing databases for large-scale projects.
 
 🚀 Before Mimcode, I specialized in front-end development at Udemig, where I crafted responsive, user-centric interfaces using React, HTML, and CSS and optimized web applications for mobile devices.
 
