@@ -24,7 +24,7 @@ My current focus is on excelling as both a front-end and back-end developer, str
 
 I'm always eager to connect with fellow developers, learners, or anyone who shares an interest in coding, web development, or cars! Feel free to reach out to me at:
 
-📧 Email: sametdursun34@gmail.com
+📧 Email: sametdursun1998@hotmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/abdulsamet-dursun-9b14a4174/
 
